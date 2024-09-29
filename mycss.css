@@ -1,0 +1,12 @@
+.navbar a:hover{
+    background-color: rgb(145, 82, 82);
+    font-size:larger;
+}
+
+.button1:hover{
+    font-size:larger;
+}
+
+.button2:hover{
+    font-size:larger;
+}
